@@ -5,11 +5,9 @@
 // {
 //     public function index()
 //     {
-        
-//     }
-// }
 
 echo '哈哈哈';
+
 
 
 
